@@ -1,0 +1,4 @@
+#!/bin/bash
+git filter-branch -f --msg-filter '
+tr "a-z" "A-Z" | tr -d "[:punct:]"
+' $1
