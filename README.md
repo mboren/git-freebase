@@ -1,5 +1,7 @@
 git-freebase adds enthusiasm and a sense of flow to your commits.
 
+![Animation showing git freebase in use](demo.gif)
+
 ### Installation
 
 Put git-freebase anywhere in your $PATH and mark it executable.
